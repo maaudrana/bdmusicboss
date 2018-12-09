@@ -1,0 +1,13 @@
+setup.py
+bdmusicboss/__init__.py
+bdmusicboss/items.py
+bdmusicboss/middlewares.py
+bdmusicboss/pipelines.py
+bdmusicboss/settings.py
+bdmusicboss/spiders/__init__.py
+bdmusicboss/spiders/bdmusic.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
